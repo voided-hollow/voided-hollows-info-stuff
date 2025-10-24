@@ -1,0 +1,42 @@
+# V.O.I.D. Protocol  
+> Virtual Operations & Information Directive  
+> Status: active  
+> Node: VOID Network Core  
+
+## Purpose
+To maintain clarity, consistency, and security across all nodes in the VOID network,  
+ensuring signals are transmitted, received, and archived properly while preserving system integrity.  
+
+## Protocol Nodes
+
+### V – Verify
+- Every incoming signal (email, message, submission) must be verified by node integrity.  
+- Confirm source authenticity before allowing the signal to propagate.  
+
+### O – Organize
+- Signals are routed to the correct node based on category:  
+  - Tech → [being made]  
+  - Animation → [being made] 
+  - Core / unsure where it goes → [being made] 
+- Misrouted signals are quarantined until proper classification.  
+
+### I – Integrate
+- Verified signals are integrated into the VOID network archive.  
+- Data is logged, timestamped, and cross-referenced with relevant nodes.  
+
+### D – Dispatch
+- Responses or actions are dispatched according to node purpose:  
+  - Tech: troubleshooting, experiments  
+  - Animation: collaboration, review, feedback  
+  - Core / General: coordination, general inquiries  
+- Monitor for anomalies or corrupted signals.  
+
+## Transmission Guidelines
+- All communications should be routed through their designated node.  
+- Signals outside the protocol may be flagged or delayed until verification.  
+- Maintain archival logs of all transmissions for system integrity.  
+
+> V.O.I.D. Protocol active  
+> Node monitoring: ONLINE  
+> Signal verification: 100%  
+> Dispatch status: nominal
